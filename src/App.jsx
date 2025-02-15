@@ -37,7 +37,7 @@ function App() {
       Title: "Cheap Villa",
       Sorc: "Cheap.avif",
       Price: "$40000",
-      Message: "Yeah it's cheap, But not for you Brokey",
+      Message: "Yeah it's cheap, But not for you broke guy",
     },
     {
       Title: "Egyption Villa",
